@@ -1,4 +1,4 @@
-# PCA-and-data-visualization
+# PCA-and-data-visualizations
 # 🧠 PCA and Data Visualization
 
 A simple yet powerful project demonstrating **Principal Component Analysis (PCA)** for dimensionality reduction and how to visualize high-dimensional datasets using Python libraries like `scikit-learn`, `matplotlib`, and `seaborn`.
